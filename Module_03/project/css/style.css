@@ -1,0 +1,118 @@
+body {
+	height: 100%;
+}
+
+.bg {
+	background-image: url("../images/background2.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nav-container {
+    background: #343a40;
+}
+nav {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #e3c5a3;
+}
+
+.main-content {
+	width: 100%;
+    color: #d5daca;
+    /* background: #f0f0f0; */
+}
+
+.main-content .row {
+    margin-top: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #a72900;
+}
+
+.sidebar {
+    margin-top: 10px;
+}
+.sidebar h3{
+    
+}
+
+.logo-image {
+    height: 200px;
+}
+
+.logo h1 {
+    display: inline;
+}
+
+.navbar-dark .navbar-brand {
+    color: #a72900;
+}
+
+.navbar-brand img {
+    height:50px;
+    padding-right: 10px;
+}
+
+.card-header {
+    background: #343a40;
+    color: #a72900;
+}
+
+.card-body {
+    background: #aeafaf;
+    color: black
+}
+
+.card-body a {
+    color: #e3c5a3;
+    
+}
+
+.card-body .btn:focus {
+    outline: none;
+}
+
+footer {
+    background: #343a40;
+    color: #d5daca;
+    font-size: 12px;
+    line-height: 1em;
+    margin-top: 20px;
+}
+
+footer p {
+    padding-top: 20px;
+}
+
+footer a {
+    color: #e3c5a3;
+}
+
+.social-media a {
+    font-size: 20px;
+}
+
+.feature-images img {
+    height: 15em;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
+
